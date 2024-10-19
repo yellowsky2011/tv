@@ -3202,12 +3202,4 @@ WOWOW,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&is
 咪咕直播-43,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
 咪咕直播-44,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 咪咕直播-45,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-
-💞电影频道,#genre#
-邵氏影院,http://43.138.170.29:35455/douyu/4246519
-怡寳影院,http://43.138.170.29:35455/douyu/434971
-神乐影院,http://43.138.170.29:35455/douyu/85894
-苹果影院,http://43.138.170.29:35455/douyu/2793084
-特辑影院,http://43.138.170.29:35455/douyu/3637778
-华语电影,http://43.138.170.29:35455/douyu/3928
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+pointer
